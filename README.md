@@ -119,4 +119,4 @@ constituency_master.csv: Unified mapping table for 234 Assembly Constituencies w
 
 TN_Election_Report_dashboard.pbix : Final Power BI Master Dashboard.
 
-Atliq_Media_TN_Election_Pitch_2026 : The 8-slide executive presentation pitch.
+Atliq_Media_TN_Election_Pitch_2026.pdf : The 8-slide executive presentation pitch.
